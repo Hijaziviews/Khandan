@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; background: #f3f1ee; }
+.container { max-width: 700px; margin: auto; background: #fff; padding: 24px; border-radius: 8px; margin-top: 40px; box-shadow: 0 2px 8px #bbb; }
+h1, h2 { color: #945d2c; }
+input[type="password"] { padding: 8px; margin-right: 8px; }
+button { padding: 8px 16px; background: #945d2c; color: #fff; border: none; border-radius: 4px; }
+a { color: #945d2c; text-decoration: none; }
+hr { margin: 24px 0; }
