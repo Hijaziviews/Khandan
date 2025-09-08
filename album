@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Family Album - Hamara Khandan</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <div class="container">
+    <h2>Our Family Album</h2>
+    <iframe src="family/HamaraKhandanSample.pdf" width="90%" height="600px"></iframe>
+    <p><a href="index.html">Return to Home</a></p>
+  </div>
+</body>
+</html>
