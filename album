@@ -8,7 +8,7 @@
 <body>
   <div class="container">
     <h2>Our Family Album</h2>
-    <iframe src="family/HamaraKhandanSample.pdf" width="90%" height="600px"></iframe>
+    <iframe src="family/HamaraKhandan.pdf" width="90%" height="600px"></iframe>
     <p><a href="index.html">Return to Home</a></p>
   </div>
 </body>
